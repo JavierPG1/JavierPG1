@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Javier, a Telematics Engineering student, highly focused on Data Science. I spend most of my time cleaning datasets, building models with Python, and finding stories hidden in data. 
+
+- I’m currently deep-diving into Machine Learning workflows and statistics.
+- I’m looking to collaborate on Data Science projects.
